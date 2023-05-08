@@ -149,7 +149,7 @@ const cn = {
     },
     AccessCode: {
       Title: "访问密码",
-      SubTitle: "已开启加密访问",
+      SubTitle: "Starry Zhang的管理员密码",
       Placeholder: "请输入访问密码",
     },
     Model: "模型 (model)",
