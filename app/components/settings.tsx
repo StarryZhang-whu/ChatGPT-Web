@@ -280,7 +280,7 @@ export function Settings() {
             {Locale.Settings.Title}
           </div>
           <div className="window-header-sub-title">
-            {Locale.Settings.SubTitle}
+            Frontend powered by Next.js
           </div>
         </div>
         <div className="window-actions">
